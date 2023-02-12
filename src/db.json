@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "codProduto": 1,
+            "nomeProduto": "Paracetamol",
+            "validadeProduto": "01/01/2025",
+            "loteProduto": "lote01",
+            "quantidadeProduto": 32
+        },
+        {
+            "codProduto": 2,
+            "nomeProduto": "Dipirona",
+            "validadeProduto": "01/01/2022",
+            "loteProduto": "lote05",
+            "quantidadeProduto": 3
+        },
+        {
+            "codProduto": 3,
+            "nomeProduto": "Losartana",
+            "validadeProduto": "03/12/2022",
+            "loteProduto": "EP154564ff",
+            "quantidadeProduto": 100
+        },
+        {
+            "codProduto": 4,
+            "nomeProduto": "Dorflex",
+            "validadeProduto": "01/03/2024",
+            "loteProduto": "lote25636",
+            "quantidadeProduto": 45
+        }
+    ]
+}
